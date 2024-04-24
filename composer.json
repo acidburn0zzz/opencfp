@@ -11,7 +11,7 @@
         "illuminate/container": "4.0.*@dev",
         "illuminate/support": "4.0.*@dev",
         "ezyang/htmlpurifier": "dev-master",
-        "swiftmailer/swiftmailer": "5.0",
+        "swiftmailer/swiftmailer": "5.4.12",
         "pimple/pimple": "1.*",
         "silex/silex": "1.*",
         "symfony/form": "~2.3",
